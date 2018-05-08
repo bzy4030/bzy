@@ -23,7 +23,8 @@ cv2.imshow("3", thresh)
 kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (25, 25))
 closed = cv2.morphologyEx(thresh, cv2.MORPH_CLOSE, kernel)
 cv2.imshow("4", closed)
-
+#ddff
+print("测试GIT使用")
 # 5
 closed = cv2.erode(closed, None, iterations=4)
 closed = cv2.dilate(closed, None, iterations=4)

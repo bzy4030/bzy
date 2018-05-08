@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/inspectionProfiles
+pythonDemo2.iml
